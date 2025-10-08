@@ -34,10 +34,10 @@
 }
 
 body {
-    background-color: #f2fbf2; /* Lightest shade for body background to follow the 60% rule */
+    background-color: #B7C0EE; /* Lightest shade for body background to follow the 60% rule */
 }
 
 .navbar-brand{
-    font-family: 'Caveat', cursive; /*change the font name for what you have*/
+    font-family: 'Montserrat', sans-serif; /*change the font name for what you have*/
     font-size: 2.25rem;
 }
